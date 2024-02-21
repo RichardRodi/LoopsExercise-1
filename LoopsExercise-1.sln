@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsExercise-1", "LoopsExercise-1\LoopsExercise-1.csproj", "{34AA756F-F84F-4F50-BC5D-82B80449E51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AA756F-F84F-4F50-BC5D-82B80449E51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AA756F-F84F-4F50-BC5D-82B80449E51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AA756F-F84F-4F50-BC5D-82B80449E51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AA756F-F84F-4F50-BC5D-82B80449E51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F851636C-EE1E-4AC3-949F-FA38D9ED00AF}
+	EndGlobalSection
+EndGlobal
